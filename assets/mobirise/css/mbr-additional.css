@@ -1,0 +1,332 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .navbar-brand a {
+  font-size: 15px;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-0 .btn {
+  font-size: 11px;
+}
+#msg-box4-19 .mbr-header__text {
+  color: #252525;
+  font-size: 25px;
+}
+#msg-box4-19 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-19 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-19 .mbr-article P {
+  color: #000000;
+  font-size: 16px;
+}
+#msg-box4-19 .mbr-article BLOCKQUOTE {
+  color: #252525;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-19 .btn {
+  font-size: 10px;
+}
+#msg-box3-36 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-36 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-36 .mbr-article BLOCKQUOTE {
+  color: #ff0000;
+}
+#msg-box3-36 .btn {
+  font-size: 10px;
+}
+#msg-box3-36 .mbr-article H4 {
+  font-size: 16px;
+}
+#features1-17 .mbr-section__col .mbr-header__text {
+  color: #000000;
+  font-size: 15px;
+}
+#features1-17 P {
+  font-size: 16px;
+  text-align: left;
+  color: #252525;
+}
+#features1-17 .mbr-section-title .mbr-header__text {
+  font-size: 25px;
+}
+#features1-17 .mbr-header__subtext {
+  text-align: center;
+  color: #000000;
+  font-size: 16px;
+}
+#features1-17 .btn {
+  font-size: 11px;
+}
+#social-buttons1-17 .mbr-header__text {
+  font-size: 15px;
+  color: #000000;
+}
+#msg-box3-37 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-37 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  font-size: 15px;
+  color: #000000;
+}
+#msg-box3-37 .mbr-article UL {
+  text-align: left;
+  color: #ff0000;
+}
+#msg-box3-37 .mbr-article BLOCKQUOTE {
+  text-align: left;
+}
+#msg-box3-37 .mbr-article P {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box3-37 .btn {
+  font-size: 10px;
+}
+#testimonials1-18 .mbr-reviews__text P {
+  color: #252525;
+}
+#testimonials1-18 .mbr-reviews__author-bio {
+  color: #27aae0;
+}
+#testimonials1-18 .mbr-reviews__author-name {
+  color: #f97352;
+}
+#testimonials1-18 .mbr-reviews__text {
+  color: #000000;
+}
+#contacts3-3 STRONG {
+  color: #ffffff;
+}
+#contacts3-3 P {
+  color: #efefef;
+}
+#footer1-2 P {
+  color: #ffffff;
+}
+
+#slider-0 H1 {
+  color: #f97352;
+}
+#slider-0 P {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+#slider-0 .btn {
+  font-size: 8px;
+}
+#content4-32 .mbr-header__subtext {
+  color: #f97352;
+  font-size: 20px;
+}
+#content4-32 P {
+  color: #000000;
+}
+#content4-32 .btn {
+  font-size: 10px;
+}
+#social-buttons1-39 .mbr-header__text {
+  font-size: 14px;
+}
+#features1-2 P {
+  color: #252525;
+}
+#features1-2 .mbr-header__subtext {
+  font-size: 20px;
+  color: #f97352;
+}
+#contacts3-3 STRONG {
+  color: #ffffff;
+}
+#contacts3-3 P {
+  color: #efefef;
+}
+#footer1-2 P {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .navbar-brand a {
+  font-size: 15px;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-0 .btn {
+  font-size: 11px;
+}
+
+
+
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .navbar-brand a {
+  font-size: 15px;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-0 .btn {
+  font-size: 11px;
+}
+#msg-box3-3 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3 .mbr-article P {
+  color: #252525;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box3-3 .btn {
+  font-size: 11px;
+}
+#social-buttons1-31 .mbr-header__text {
+  font-size: 15px;
+}
+#content1-5 P {
+  color: #252525;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+#content1-5 H4 {
+  font-size: 19px;
+  color: #f97352;
+}
+#content1-7 P {
+  color: #252525;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+#content1-7 H4 {
+  font-size: 19px;
+  color: #f97352;
+}
+#buttons1-a .btn {
+  font-size: 11px;
+}
+#pricing-table1-8 H3 {
+  color: #000000;
+}
+#pricing-table1-8 DIV {
+  color: #f97352;
+}
+#msg-box3-b .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-b .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-b .mbr-article P {
+  color: #252525;
+}
+#msg-box3-b .btn {
+  font-size: 11px;
+}
+#content4-e P {
+  color: #000000;
+}
+#social-buttons1-f .mbr-header__text {
+  font-size: 15px;
+}
+#contacts3-3 STRONG {
+  color: #ffffff;
+}
+#contacts3-3 P {
+  color: #efefef;
+}
+#footer1-2 P {
+  color: #ffffff;
+}
+#contacts3-g STRONG {
+  color: #ffffff;
+}
+#contacts3-g P {
+  color: #efefef;
+}
+#footer1-h P {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-i .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-i .navbar-brand a {
+  font-size: 15px;
+}
+#dropdown-menu-2btn-i .nav .link,
+#dropdown-menu-2btn-i .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-i .navbar,
+#dropdown-menu-2btn-i .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-2btn-i .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-i .dropdown-menu a:hover,
+#dropdown-menu-2btn-i .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-2btn-i .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-i .btn {
+  font-size: 11px;
+}

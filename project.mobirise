@@ -1,0 +1,2094 @@
+{
+  "settings": {
+    "currentPage": "Index.html",
+    "versionFirst": "2.11.1",
+    "versionPublish": "3.11.1",
+    "name": "NewSite-07-04_0735",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/picsart-1486390113467-128x119.png",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-79858439-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "cookiesAlert": "",
+    "uniqCompNum": 21,
+    "noImageResize": ""
+  },
+  "pages": {
+    "dogtraining.html": {
+      "settings": {
+        "title": "Basics Of Dog Training",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "15px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picsart-137x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "",
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "title": "Doggy-Dan.com",
+              "linkInNewWindow": true
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PuPpY cHoW</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dogtraining.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Dog Training</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"yourcaninescuisine.html\" aria-expanded=\"false\"><span class=\"mbri-hot-cup mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Your Dog's Cuisine</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adoptapuppy.html\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Adopt A Pup</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" target=\"_blank\">Training</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#252525",
+              "font-size": "25px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "font-size": "16px"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "color": "#252525",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "10px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-19",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/funny-shepherd-dog-pictures-photo-1600x1000-60.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Basics of dog training!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<blockquote>It's essential for Dog parents like you to know certain basic factors that determine your relationship with your Dog and can go a long way in training him effectively.</blockquote><blockquote><p>Before you begin training your Dog, it is absolutely essential that you build a loving bond with him. This is important as it helps you to understand his needs and instincts and also allows your Dog to have complete trust in you.</p><p>Click the Dog training course button below for &nbsp;more indept knowledge on how to house train your Dog/Pup.</p><p>Scroll down for more!</p></blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>TRAINING COURSE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"dogtraining.html#testimonials1-18\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "color": "#ff0000"
+            },
+            ".btn": {
+              "font-size": "10px"
+            },
+            ".mbr-article H4": {
+              "font-size": "16px"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-36",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "4 Golden Rules To Building A Relationship With Your Dog.",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<blockquote><h4>Spend quality time together.</h4><h4>Take him out in the world and experience life together.</h4><h4>Establish and promote a level of mutual respect.</h4><h4>Develop a way of communicating to better understand each other's needs.</h4></blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"dogtraining.html#features1-17\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-down mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>LEARN MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"yourcaninescuisine.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hot-cup mbr-iconfont mbr-iconfont-btn\"></span>YOUR CANINES CUISINE</a>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#000000",
+              "font-size": "15px"
+            },
+            "P": {
+              "font-size": "16px",
+              "text-align": "left",
+              "color": "#252525"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "font-size": "25px"
+            },
+            ".mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_anchor": "features1-17",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": true,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "The true Philosophy on how your dog learns",
+          "subheader": "The 4 phases.",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/th-300x168-22.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "THE TEACHING PHASE.",
+          "caption1": "This is the phase where you must physically demonstrate to your Dog exactly what you want him to do, this phase might seem simple but it's the hardest phase and must be carried out exactly as the course suggest you should.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>DOG TRAINING COURSE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/blue-eyes-wolf-1920x1080-54.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "THE PRACTICING PHASE.",
+          "caption2": "Practice makes Perfect. Once a lesson is learnt, practice with your Dog what you have just taught him, over and over again until it becomes imune, being consistent might affect his ego to be free but this phase is just as critical.",
+          "button2": "<a data-app-btn=\"true\" href=\"yourcaninescuisine.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hot-cup mbr-iconfont mbr-iconfont-btn\"></span>YOUR CANINES CUISINE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/labrador-full-hd-wallpaper-dog-on-beach-at-sunset-amazing-colors-1920x1080-79.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "THE GENERALIZING PHASE.",
+          "caption3": "Here you must continue practicing with your Dog in different locations and in an environment with a few distractions. You can take your Dog out for a walk, or to a nearby park and command him to practice whatever you've taught him.",
+          "button3": "<a data-app-btn=\"true\" href=\"dogtraining.html#msg-box3-37\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-down mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>MORE INFO BELOW</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/retriever-corn-field-full-hd-wallpaper-afternoon-1080p-1920x1080-78.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "THE TESTING PHASE.",
+          "caption4": "Once you're sure that your Dog has achieved almost 90% success....he responds correctly almost every time you give a command, you must start testing his accuracy in newer locations with a lot of distractions.",
+          "button4": "<a data-app-btn=\"true\" href=\"dogtraining.html#contacts3-3\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\"></span>GOT QUESTION</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "15px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "social-buttons1-17",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "PLEASE SHARE THIS PAGE!"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "font-size": "15px",
+              "color": "#000000"
+            },
+            ".mbr-article UL": {
+              "text-align": "left",
+              "color": "#ff0000"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "text-align": "left"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "10px"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-37",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": true,
+            "darkBackground": false
+          },
+          "title": "Training Your Dog to Listen to You",
+          "meta": "Why wont my Dog listen to me?",
+          "text": "<h3>Why Won't My Dog Listen To Me? This is a common question that most first-time Dog owners ask me. Before I answer your question, let me ask you a few instead:</h3><blockquote><ul><li>Do you use cookies, collars, head halters or clickers to make your Dog listen to your commands?</li><li>Do you have to raise your voice every time you want your Dog to listen to you?</li><li>Does your Dog always come or sit on command - anytime and anywhere you want him to?</li></ul><p>If your answers are mostly in the negative, its time you seriously reconsider your role as a sincere Dog trainer and an ideal pet parent. Click the button below to learn how to bond with your Dog better.</p></blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>A BETTER BOND WITH MY PUP</a>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"The information on this site played a key part in helping me keep my sanity while dealing with puppy behavior! If you're like me and have a new puppy for the first time in your life, or if you've owned a dog for years, I highly recommend joining your site.\"</p>",
+              "authorName": "-- Dan Gallapoo, Dayton, Ohio",
+              "authorBio": "User"
+            },
+            {
+              "text": "\"My dog, Lex, is a large German Shepherd Dog. If I didn't switch to [your methods] when he was 6 months old, I would never have been able to take him on a proper walk. He was getting wild. He is now well behaved and a joyful pup. Thank you for your helpful tips. We greatly appreciate it.\"&nbsp;",
+              "authorName": "-- Vita",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Old, young, pit bull, mastiff, chihuahua, healthy or ill... they are loved here with my hubby and the 3 cats. And no fights, no running loose outside, no chewing of furniture. I know I train mainly with my heart, but I go by the same tenents you do: Understand their pack life and use it to your advantage. Love your site!\"</p>",
+              "authorName": "-- Wendy and Tim Bartlett",
+              "authorBio": "Returning User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"We would like to speak with you about possibly being a guest on CBS Network ---talking about how to keep your dog from barking. If you are a dog whisperer we would like a live demo.\" Thanks</p><p class=\"mbr-reviews__p\">&nbsp;</p>",
+              "authorName": "--Jeff Jayson&nbsp;<span style=\"line-height: 1.42857143;\">Producer, CBS News</span>",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Just out of curiosity, I downloaded 'Secrets of a Professional Dog Trainer' many months ago and I felt like I was reading my own book! Thank you for your time, effort and dedication to our line of work. The world needs more dog trainers like us!\" Very sincerely,</p>",
+              "authorName": "-- Suzi Schaefers &nbsp;<span style=\"line-height: 1.42857143;\">Owner Suzi's Custom Dog Training&nbsp;</span><span style=\"line-height: 1.42857143;\">Morrison, CO. USA 80465</span>",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"This morning, Abby and I had one of those moments where you feel an indescribable inner connection, which followed with thoughts of how I nearly gave up on her last February. She's nearly one year old and still here. That's because of you, and I want to thank you. You've been the main influence in her training.”</p>",
+              "authorName": "-- Laurel, Salt Lake City, Utah.",
+              "authorBio": "Returning User"
+            }
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-reviews__text P": {
+              "color": "#252525"
+            },
+            ".mbr-reviews__author-bio": {
+              "color": "#27aae0"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#f97352"
+            },
+            ".mbr-reviews__text": {
+              "color": "#000000"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"The information on this site played a key part in helping me keep my sanity while dealing with puppy behavior! If you're like me and have a new puppy for the first time in your life, or if you've owned a dog for years, I highly recommend joining your site.\"</p>",
+              "authorName": "-- Dan Gallapoo, Dayton, Ohio",
+              "authorBio": "User"
+            },
+            {
+              "text": "\"My dog, Lex, is a large German Shepherd Dog. If I didn't switch to [your methods] when he was 6 months old, I would never have been able to take him on a proper walk. He was getting wild. He is now well behaved and a joyful pup. Thank you for your helpful tips. We greatly appreciate it.\"&nbsp;",
+              "authorName": "-- Vita",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Old, young, pit bull, mastiff, chihuahua, healthy or ill... they are loved here with my hubby and the 3 cats. And no fights, no running loose outside, no chewing of furniture. I know I train mainly with my heart, but I go by the same tenents you do: Understand their pack life and use it to your advantage. Love your site!\"</p>",
+              "authorName": "-- Wendy and Tim Bartlett",
+              "authorBio": "Returning User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"We would like to speak with you about possibly being a guest on CBS Network ---talking about how to keep your dog from barking. If you are a dog whisperer we would like a live demo.\" Thanks</p><p class=\"mbr-reviews__p\">&nbsp;</p>",
+              "authorName": "--Jeff Jayson&nbsp;<span style=\"line-height: 1.42857143;\">Producer, CBS News</span>",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Just out of curiosity, I downloaded 'Secrets of a Professional Dog Trainer' many months ago and I felt like I was reading my own book! Thank you for your time, effort and dedication to our line of work. The world needs more dog trainers like us!\" Very sincerely,</p>",
+              "authorName": "-- Suzi Schaefers &nbsp;<span style=\"line-height: 1.42857143;\">Owner Suzi's Custom Dog Training&nbsp;</span><span style=\"line-height: 1.42857143;\">Morrison, CO. USA 80465</span>",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"This morning, Abby and I had one of those moments where you feel an indescribable inner connection, which followed with thoughts of how I nearly gave up on her last February. She's nearly one year old and still here. That's because of you, and I want to thank you. You've been the main influence in her training.”</p>",
+              "authorName": "-- Laurel, Salt Lake City, Utah.",
+              "authorBio": "Returning User"
+            }
+          ],
+          "_anchor": "testimonials1-18",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "count": "6",
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "THIS COURSE REALLY WORKS!"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts3-3",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/retriever-corn-field-full-hd-wallpaper-afternoon-1080p-1920x1080-91.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#000000"
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n206 EAST 95 ST<br>York Ville, NY/US<br><br>\n<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:puppychow4u@gmail.com\" target=\"_blank\" class=\"text-info\">support@puppychow.com</a><br>\nPhone: +1 (876) 361-2946<br>",
+          "text2": "<p>Contact us anytime you wish.</p><p>Disclaimer Notice.</p><p>*email address and information will be kept secure.</p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "siduce436@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT ME</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Puppy chow. <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "Index.html": {
+      "settings": {
+        "main": true,
+        "title": "PuPpY cHoW",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "color": "#f97352"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "8px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/cute-dogs-wallpaper-bffa6-2000x1250.jpg",
+                "contentAlign": "left",
+                "overlay": true,
+                "showTitle": true,
+                "title": "Sit!",
+                "showText": true,
+                "text": "This is one of the easiest dog obedience commands to teach, so it’s a good one to start with.Hold a treat close to your dog’s nose.&nbsp;Move your hand up, allowing his head to follow the treat and causing his bottom to lower.&nbsp;Once he’s in sitting position, say “Sit,” give him the treat, and share affection.&nbsp;Repeat this sequence a few times every day until your dog has it mastered. Then ask your dog to sit before mealtime, when leaving for walks, and during other situations where you’d like him calm and seated.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>BEST DOG TRAINING COURSE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"yourcaninescuisine.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hot-cup mbr-iconfont mbr-iconfont-btn\"></span>YOUR CANINES CUISINE</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dog-hd-wallpaper-widescreen-2000x1250.jpg",
+                "contentAlign": "left",
+                "overlay": true,
+                "showTitle": true,
+                "title": "Come!",
+                "showText": true,
+                "text": "This command can help keep a dog out of trouble, bringing him back to you if you lose grip on the leash or accidentally leave the front door open.&nbsp;Put a leash and collar on your dog.&nbsp;Go down to his level and say, “Come,” while gently pulling on the leash.&nbsp;When he gets to you, reward him with affection and a treat.&nbsp;Once he’s mastered it with the leash, remove it and practice the command in a safe, enclosed area.<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Index.html#social-buttons1-39\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>SHARE THIS PAGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/labrador-retriever-foliage-autumn-dog-pumpkin-puppy-31714-1920x1080-2000x1125.jpg",
+                "contentAlign": "left",
+                "overlay": true,
+                "showTitle": true,
+                "title": "Stay!",
+                "showText": true,
+                "text": "Make sure your dog is an expert at the “Sit” command.&nbsp;First, ask your dog to “Sit.”&nbsp;Then open the palm of your hand in front of you, and say “Stay.”&nbsp;Take a few steps back. Reward him with a treat and affection if he stays.&nbsp;Gradually increase the number of steps you take before giving the treat.&nbsp;Always reward your pup for staying put even if it’s just for a few seconds.&nbsp;This is an exercise in self-control for your dog, so don’t be discouraged if it takes a while to master, particularly for puppies and high-energy dogs.<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-database mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>DOG TRAINING RECOMMENDED</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"dogtraining.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>BASICS OF DOG TRAINING</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-0",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "features1",
+          "_name": "content4",
+          "_styles": {
+            ".mbr-header__subtext": {
+              "color": "#f97352",
+              "font-size": "20px"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "10px"
+            }
+          },
+          "_anchor": "content4-32",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": true,
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "THE 2 FORMS OF DOG TRAINING!",
+          "subheader": "What works and what dosen't",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/photo-18-600x400.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "alt": "",
+              "title": "Best Dog Training Online Course",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "\"(POSITIVE) ONLY DOG TRAINING\"",
+          "caption1": "Positive-only dog training and clicker training works well for teaching fun things like tricks where it really doesn't matter whether your dog obeys or not. If you tell him to shake hands or roll over and he doesn't do it, who cares?&nbsp;But for teaching your dog to come when called in the presence of temptations or distractions. For teaching your dog to stand quietly while his teeth are brushed or his coat is groomed. For teaching your dog to act politely toward strangers and other animals&nbsp;and for teaching your dog all the other behaviors you want a well-behaved family dog to do or not do! positive-only dog training is less effective.&nbsp;Think about it. What happens when you want your dog to stop chasing a cat and come to you but at that particular moment he's not hungry and would rather chase the cat rather than munch on a biscuit? Catch the drift?<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-image-slider mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>BEST DOG TRAINING COURSE (RECOMMENDED)</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/photo-17-600x400.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "alt": "",
+              "title": "Best Dog Training Online Course",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "\"(RESPECT) DOG TRAINING\"",
+          "caption2": "Respect Training is a balanced philosophy of dog training. \"Balanced\" means both positive and negative consequences for one's behaviors. Real life for all living creatures consists of learning from both positive and negative consequences. Positive consequences encourage us to repeat a behavior. Negative consequences discourage us from repeating a behavior. For example, we hold the door open and someone says, \"Thank you!\" (positive), so we are likely to do it again. We take an extra-long lunch break and the boss docks our pay (negative), so we are less likely to do that again. We learn from both positive and negative consequences and behave accordingly. This is why respect training is the best and most effective way to train your dog (for more indept knoweledge on respect training please use the button below.",
+          "button2": "<a data-app-btn=\"true\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-drag-n-drop mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE ABOUT RESPECT TRAINING</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/siberian%20husky_snow%20dogs%20hd%2027-600x399.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "alt": "",
+              "title": "Best Dog Training Online Course",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "\"(RESPECT) DOG TRAINING\"",
+          "caption3": "Respect Training is a balanced philosophy of dog training. \"Balanced\" means both positive and negative consequences for one's behaviors.&nbsp;Real life for all living creatures consists of learning from both positive and negative consequences.&nbsp;Positive consequences encourage us to repeat a behavior.&nbsp;Negative consequences discourage us from repeating a behavior.&nbsp;For example, we hold the door open and someone says, \"Thank you!\" (positive), so we are likely to do it again. We take an extra-long lunch break and the boss docks our pay (negative), so we are less likely to do that again. We learn from both positive and negative consequences and behave accordingly. This is why respect training is the best and most effective way to train your dog (for more indept knoweledge on respect training please use the button below.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "social-buttons1-39",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": false,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "PLEASE SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "color": "#252525"
+            },
+            ".mbr-header__subtext": {
+              "font-size": "20px",
+              "color": "#f97352"
+            }
+          },
+          "_anchor": "features1-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": true,
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "FAMOUS QOUTES ABOUT DOGS",
+          "subheader": "FROM FAMOUS PEOPLE",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/blue-eyes-wolf-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "\"WOODROW .W\"",
+          "caption1": "“If a dog will not come to you after having looked you in the face, you should go home and examine your conscience.”<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://en.wikipedia.org/wiki/Woodrow_Wilson\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/boo-cute-dog-sleep-dog-photo-wallpaper-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "\"JOE .W\"",
+          "caption2": "“My dog is worried about the economy because Alpo is up to $3.00 a can. That’s almost $21.00 in dog money.”<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"Index.html#features1-2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cute-golden-retriever-puppy-wallpaper-1080p-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "\"ROBERT .W\"",
+          "caption3": "“A dog will teach you unconditional love. If you can have that in your life, things won’t be too bad for you don't you think.”<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://en.wikipedia.org/wiki/Robert_Wagner\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/doberman-dog-face-tongue-64857-1920x1080-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "\"MARK .T\"",
+          "caption4": "“Heaven goes by favor. If it went by merit, you would stay out and your dog would go in. Hehe thats a funny one”<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://en.wikipedia.org/wiki/Mark_twain\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dog-nose-face-cute-89881-1920x1080-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "\"JAMES .T\"",
+          "caption5": "“If I have any beliefs about immortality, it is that certain dogs I have known will go to heaven, and very, very, very few persons. ”<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://en.wikipedia.org/wiki/James_Thurber\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dog-winter-wallpaper-1080p-full-hd-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "\"JACK .L\"",
+          "caption6": "“A bone to the dog is not charity. Charity is the bone shared with the dog, when you are just as hungry as the dog.”<br>",
+          "button6": "<a data-app-btn=\"true\" href=\"http://en.wikipedia.org/wiki/Jack_London\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts3-3",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/retriever-corn-field-full-hd-wallpaper-afternoon-1080p-1920x1080-91.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#000000"
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n206 EAST 95 ST<br>York Ville, NY/US<br><br>\n<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:puppychow4u@gmail.com\" target=\"_blank\" class=\"text-info\">support@puppychow.com</a><br>\nPhone: +1 (876) 361-2946<br>",
+          "text2": "<p>Contact us anytime you wish.</p><p>Disclaimer Notice.</p><p>*email address and information will be kept secure.</p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "puppychow4u@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form, i'll contact you within (1) business day!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT ME</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Puppy chow. <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "15px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picsart-137x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "",
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "title": "Best Dog Training Online Course",
+              "linkInNewWindow": true
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PuPpY cHoW</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dogtraining.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Dog Training</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"yourcaninescuisine.html\" aria-expanded=\"false\"><span class=\"mbri-hot-cup mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Your Dog's Cuisine</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adoptapuppy.html\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Adopt A Pup</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" target=\"_blank\">Training</a></li>"
+        }
+      ]
+    },
+    "yourcaninescuisine.html": {
+      "settings": {
+        "title": "Your Canines Cuisine",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "15px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picsart-137x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "",
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "title": "Doggy-Dan.com",
+              "linkInNewWindow": true
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PuPpY cHoW</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dogtraining.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Dog Training</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"yourcaninescuisine.html\" aria-expanded=\"false\"><span class=\"mbri-hot-cup mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Your Dog's Cuisine</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adoptapuppy.html\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Adopt A Pup</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" target=\"_blank\">Training</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#252525",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "What is the best puppy food?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>A new puppy is a joy like no other. Maybe you are preparing to bring your new baby into your home, or maybe the pup is already there. And he’s hungry!</p><p>You have entered into a world of love and companionship, but there is a dizzying array of choices when it comes to what to feed your new friend.</p><p>Feeding him with the best puppy food is vital in these first weeks because your puppy is growing 20x faster than a young adult dog! It is in these first months that healthy patterns are established that will prevent future health problems like allergies, obesity, and joint problems.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"yourcaninescuisine.html#content1-5\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-down mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>CLICK FOR MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/siberian-husky-snow-dogs-hd-271-2000x1250-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/siberian-husky-snow-dogs-hd-271-2000x1250.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-21-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-21-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-13-2000x1267-800x506.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-13-2000x1267.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dog-winter-wallpaper-1080p-full-hd-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dog-winter-wallpaper-1080p-full-hd-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dog-boxer-laptop-lie-face-52801-1920x1080-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dog-boxer-laptop-lie-face-52801-1920x1080-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dachshund-dog-sunglasses-sausages-cool-31798-1920x1080-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dachshund-dog-sunglasses-sausages-cool-31798-1920x1080-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/doberman-dog-face-tongue-64857-1920x1080-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/doberman-dog-face-tongue-64857-1920x1080-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dog-puppy-black-baby-1174-1920x1080-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dog-puppy-black-baby-1174-1920x1080-2000x1125.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-4",
+          "articleLayout": true
+        },
+        {
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "social-buttons1-31",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "PLEASE SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#252525",
+              "font-size": "16px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H4": {
+              "font-size": "19px",
+              "color": "#f97352"
+            }
+          },
+          "_anchor": "content1-5",
+          "text": "<h4>With high quality puppy food, your little buddy will have everything he needs for a long healthy life. </h4><p>Having too much or too little protein, vitamins, or minerals can cause serious problems in a fast-growing puppy, like joint and bone issues.</p><p>A puppy food with balanced nutrition will fuel your buddy for steady, healthy growth. What’s more, a bag of good puppy food will last much longer than a bag of the cheapest stuff. Quality dog foods have high nutrient density, so your pup won’t have to pig out to get all its protein. With this in mind, here’s what to look for in your little dog’s food bag.</p><h4>The Ingredients We Want.</h4><p><b>Whole animal products.</b> The very first ingredient listed should be a simple whole animal product like chicken, lamb, or salmon. Your pup’s first nutritional priority is protein, and he’ll need a quality source of it.</p><p><b>Healthy grains.</b> Your buddy does need his carbs, but lots of cheap carbs like corn or wheat are sometimes packed into a kibble to keep the price down. That’s nothing but a bunch of calories for your buddy. Look for grains like rice, maize, buckwheat, or oats at reasonable levels.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#252525",
+              "font-size": "16px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H4": {
+              "font-size": "19px",
+              "color": "#f97352"
+            }
+          },
+          "_anchor": "content1-7",
+          "text": "<p><b>Natural fats and oils.</b> Your puppy needs these for energy and overall health. A food with generous quantities of fats and oils from quality plant and animal sources will make his coat shine and his muscles strong.</p><p><b>Essential vitamins and minerals.</b> These include vitamins A, C, E, B-complex, calcium, phosphorus, Omega 3 and Omega 6 fatty acids.</p><h4>The Ingredients We Don’t Want.</h4><p><b>Meat and vegetable by-products</b>. This is a very vague term that can include old meat or products that came from <b>sick</b> or <b>disabled animals</b>. Yikes! Don’t leave this stuff to the imagination. Buy puppy food with recognizable meat ingredients.</p><p><b>Cheap grain fillers.</b> Watch out for puppy food that is big on <b>corn</b> and <b>wheat</b>. While not inherently harmful, some brands include more of these cheap carbs than any other ingredient. Your puppy is a carnivore; pass on the corn.</p><p><b>Corn syrup.</b> Much more harmful than grain fillers, this type of <b>sugar</b> is often used as a sweetener in dog foods. Too much sugar over time will cause overweight, diabetes and hyperactivity.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_anchor": "buttons1-a",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"yourcaninescuisine.html#pricing-table1-8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>BEST DOG FOOD BRANDS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"http://bit.do/wellnessdogfood\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>SHOP @ AMAZON.COM</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            },
+            "DIV": {
+              "color": "#f97352"
+            }
+          },
+          "_anchor": "pricing-table1-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "default",
+            "showButtons": true,
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden"
+          },
+          "title1": "WELLNESS",
+          "currency1": "$",
+          "price1": "54.13",
+          "period1": "26 pounds",
+          "list1": "<ul><li><b>Wellness started as a small family company in 1970. It has since grown into one of the truly great pet food brands on the market. Their uncompromising approach to quality ingredients results in healthy pets and noticeable reductions in allergies and other problems when changing from other foods.  Like many of the premium foods examined here, Wellness is one of the pricier brands on the market. That said, you really do get what you pay for with Wellness.</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bit.do/wellnessdogfood\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>SHOP AMAZON</a>",
+          "title2": "TASTE OF THE WILD",
+          "currency2": "$",
+          "price2": "58.48",
+          "period2": "26 pounds",
+          "list2": "<ul><li><b>Grain free, uncommon protein sources, excellent ingredients overall. The company quickly resolved a salmonella problem in 2012. TotW has committed to provide dog food that fulfills the instinctual cravings of a wild dog. This brand also includes eggs for a thick, luxurious coat.</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://bit.do/wellness-dogfood\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>SHOP AMAZON</a>",
+          "title3": "HOLISTIC SELECT",
+          "currency3": "$",
+          "price3": "46.39",
+          "period3": "30 pounds",
+          "list3": "<ul><li><b>Holistic puts great emphasis on digestibility with probiotics, natural fiber, and digestive enzymes. Holistic employs quality standards that exceed those set by government regulation. Each product features meat from a single source (chicken formula only has chicken in it) for animals who are allergic to specific meats.</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://bit.do/naturalbalancedogfood\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>SHOP AMAZON</a>",
+          "title4": "BLUE BUFFALO",
+          "currency4": "$",
+          "price4": "93.28",
+          "period4": "15 pounds",
+          "list4": "<ul><li><b>BB packs a lot of protein into their puppy food. They also include “life source bits” which are pieces of food that are “cold formed”, a process that forms the kibble without damaging the nutritional value of the food with the high temperatures of normal processing. They have some controversial ingredients like carrageenan and caramel coloring in certain varieties, but these are in very limited quantities. Overall a very high quality food.</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://bit.do/buffalodogfood\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>SHOP AMAZON</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#252525"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-b",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "Top 4 best dry puppy foods for small breed puppies.",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Small breed puppies</b> (those who will mature at <b>under 20 lbs</b>) metabolize food very quickly. As a result, they must be fed more frequently than larger breeds. Feed your little tyke <b>three or four times daily</b> during her puppyhood. Insufficient calories during this stage of development can result in all kinds of unpleasantness like weakness, seizures, and growth impairment. Make sure it features <b>at least 15% fat</b> to fuel the rapid growth of these first months. For even smaller dogs, the miniatures and teacups, dehydration can be an issue. An easy fix is to mix a little bit of quality canned food (providing a high moisture content) into the normal dry kibble.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"yourcaninescuisine.html#content4-e\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-down mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>SEE 4 BEST FOODS FOR SMALL BREEDS BELOW</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-e",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": false,
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "4 Best puppy food for small breeds",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/photo-20-600x375.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Wellness Small Breed Complete Health Puppy",
+          "caption1": "(Protein 28%, Fat 15%, Fiber 4%) Salmon meal (high in DHA) supports brain development. Lots of fruit and veggie sources for a natural source of vitamins, mineral, and antioxidants. Healthy, easily digested grains - oatmeal and barley. Nothing artificial; no GMO's; no meat by-products; no wheat, corn, or soy. Added natural Omega 3 and 6.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bit.do/wellnessdogfood\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>SHOP AMAZON</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dog-muzzle-collar-black-dog-59790-1920x1080-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Blue Buffalo Dry Dog Food for Small Breed Puppies, Chicken and Oatmeal Recipe",
+          "caption2": "(Protein 29%, Fat 16%, Fiber 4%) Quality chicken for flavor and amino acids. Oatmeal and barley are great gentle grains for puppies. Whole garlic, sweet potatoes, and carrots provide nutrients and fiber. Additional ingredients include blueberries, kelp, apples, alfalfa, and pumpkin making a nutritionally diverse and delicious puppy food. ",
+          "button2": "<a data-app-btn=\"true\" href=\"http://bit.do/buffalodogfood\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>SHOP AMAZON</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/puppy-dog-face-sad-sight-65039-1920x1080-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Balanced Dry Dog Food, Grain Free Limited Ingredient Diet Small Bites Duck and Potato&nbsp;",
+          "caption3": "(Protein 21%, Fat, 10%, Fiber 3%) High quantities of more limited protein and carb sources for excellent nutrition while minimizing allergies and digestive problems. High quality duck is a protein source you don't see much in dog food. Canola and Salmon oils provide Omega 3 and 6 as well as DHA. Natural Balance Dry dog food.",
+          "button3": "<a data-app-btn=\"true\" href=\"http://bit.do/wellness-dogfood\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>SHOP AMAZON</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/photo-7-600x379.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Natural Balance Whole Body Health Dry Dog Formula",
+          "caption4": "(Protein 23%, Fat 13%, Fiber 3%) A very popular dog food that was made in a smaller kibble for the tinier puppies because of popular demand. This formula has been tested in many environments for its effect on digestion and overall health. Customers report that their pups give this one high marks for tastiness.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://bit.do/naturalbalancedogfood\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>SHOP AMAZON</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "social-buttons1-f",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "PLEASE SHARE THIS PAGE!"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts3-3",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/retriever-corn-field-full-hd-wallpaper-afternoon-1080p-1920x1080-91.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#000000"
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n206 EAST 95 ST<br>York Ville, NY/US<br><br>\n<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:puppychow4u@gmail.com\" target=\"_blank\" class=\"text-info\">support@puppychow.com</a><br>\nPhone: +1 (876) 361-2946<br>",
+          "text2": "<p>Contact us anytime you wish.</p><p>Disclaimer Notice.</p><p>*email address and information will be kept secure.</p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "siduce436@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT ME</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Puppy chow. <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "Adoptapuppy.html": {
+      "settings": {
+        "title": "Adopt A Pup",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/photo-5-2000x1545.jpg",
+                "contentAlign": "center",
+                "overlay": true,
+                "overlayOpacity": "0.9",
+                "showTitle": true,
+                "title": "COMING SOON!",
+                "showText": true,
+                "text": "STEPS TO TAKE FIRST WHEN ADOPTING A PUP!",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-photo mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>HOME</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>DOG TRAINING</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/photo-6-2000x1125.jpg",
+                "contentAlign": "center",
+                "overlay": true,
+                "overlayOpacity": "0.9",
+                "showTitle": true,
+                "title": "COMING SOON!",
+                "showText": true,
+                "text": "WHAT ARE THE FIVE THINGS THAT YOU MUST DO AFTER ADOPTING A PUP!",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"yourcaninescuisine.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hot-cup mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>YOUR DOGS CUISINE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"Index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>HOME</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/photo-4-2000x1632.jpg",
+                "contentAlign": "center",
+                "overlay": true,
+                "overlayOpacity": "0.9",
+                "showTitle": true,
+                "title": "COMING SOON!",
+                "showText": true,
+                "text": "MISTAKES YOU SHOULDN'T MAKE WHEN ADOPTING A PUP!",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>BEST TRAINING COURSE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"Adoptapuppy.html#form1-k\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>GOT QUESTION</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-j",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACT ME!",
+          "form": {
+            "action": "puppychow4u@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out the form i'll contact you back within one business day!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "What questions do you have about adopting a pup?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts3-g",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/retriever-corn-field-full-hd-wallpaper-afternoon-1080p-1920x1080-91.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#000000"
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n206 EAST 95 ST<br>York Ville, NY/US<br><br>\n<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:puppychow4u@gmail.com\" target=\"_blank\" class=\"text-info\">support@puppychow.com</a><br>\nPhone: +1 (876) 361-2946<br>",
+          "text2": "<p>Contact us anytime you wish.</p><p>Disclaimer Notice.</p><p>*email address and information will be kept secure.</p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "puppychow4uvalerio@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form, i'll contact you within (1) business day!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT ME</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Puppy chow. <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "15px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-i",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picsart-137x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "",
+              "link": "http://access.dogproblems.com/index.cfm?affID=valerio19",
+              "title": "Best Dog Training Online Course",
+              "linkInNewWindow": true
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PuPpY cHoW</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dogtraining.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Dog Training</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"yourcaninescuisine.html\" aria-expanded=\"false\"><span class=\"mbri-hot-cup mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Your Dog's Cuisine</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Adoptapuppy.html\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 115, 82);\"></span>Adopt A Pup</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"http://access.dogproblems.com/index.cfm?affID=valerio19\" target=\"_blank\">Training</a></li>"
+        }
+      ]
+    }
+  }
+}
